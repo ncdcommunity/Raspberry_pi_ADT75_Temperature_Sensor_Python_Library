@@ -3,7 +3,10 @@
 
 # ADT75
 ADT75 is a Temperature Sensor ±1°C 12-Bit with 3 Address Lines I2C Mini Module.
-This Device is available from www.ncd.io [SKU: ADT75_I2CS]
+This Device is available from www.ncd.io
+
+[SKU: ADT75_I2CS]
+
 (https://store.ncd.io/product/adt75-temperature-sensor-%C2%B11c-12-bit-with-3-address-lines-i2c-mini-module/)
 This Sample code can be used with Raspberry Pi.
 
